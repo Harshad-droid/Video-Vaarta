@@ -3,4 +3,4 @@ This is a video calling web-app called as VideoVaarta . It is made with the help
 
 #You can get a live demo of this app here 👇
 
-https://video-vaarta.netlify.app/
+https://video-vaarta-by-harshad.netlify.app/
